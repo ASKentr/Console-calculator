@@ -1,0 +1,15 @@
+D:\Учимся кодить\Calculator\Calculator console\Calculator console\bin\Debug\net6.0\Calculator console.exe
+D:\Учимся кодить\Calculator\Calculator console\Calculator console\bin\Debug\net6.0\Calculator console.deps.json
+D:\Учимся кодить\Calculator\Calculator console\Calculator console\bin\Debug\net6.0\Calculator console.runtimeconfig.json
+D:\Учимся кодить\Calculator\Calculator console\Calculator console\bin\Debug\net6.0\Calculator console.dll
+D:\Учимся кодить\Calculator\Calculator console\Calculator console\bin\Debug\net6.0\Calculator console.pdb
+D:\Учимся кодить\Calculator\Calculator console\Calculator console\obj\Debug\net6.0\Calculator console.csproj.AssemblyReference.cache
+D:\Учимся кодить\Calculator\Calculator console\Calculator console\obj\Debug\net6.0\Calculator console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учимся кодить\Calculator\Calculator console\Calculator console\obj\Debug\net6.0\Calculator console.AssemblyInfoInputs.cache
+D:\Учимся кодить\Calculator\Calculator console\Calculator console\obj\Debug\net6.0\Calculator console.AssemblyInfo.cs
+D:\Учимся кодить\Calculator\Calculator console\Calculator console\obj\Debug\net6.0\Calculator console.csproj.CoreCompileInputs.cache
+D:\Учимся кодить\Calculator\Calculator console\Calculator console\obj\Debug\net6.0\Calculator console.dll
+D:\Учимся кодить\Calculator\Calculator console\Calculator console\obj\Debug\net6.0\refint\Calculator console.dll
+D:\Учимся кодить\Calculator\Calculator console\Calculator console\obj\Debug\net6.0\Calculator console.pdb
+D:\Учимся кодить\Calculator\Calculator console\Calculator console\obj\Debug\net6.0\Calculator console.genruntimeconfig.cache
+D:\Учимся кодить\Calculator\Calculator console\Calculator console\obj\Debug\net6.0\ref\Calculator console.dll
