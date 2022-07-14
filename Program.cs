@@ -11,13 +11,38 @@ namespace Calculator
         static void Main(string[] args)
         {
             Start:
+            
             Console.WriteLine("Введите первое значение");
             string x = Console.ReadLine();
-            decimal a = Convert.ToDecimal(x);
+            decimal a;
+            
+                if (decimal.TryParse(x, out a))
+                {
+                    goto Second;
+                }
+                {
+                    Console.WriteLine("Неверный параметр '{0}'. Повторите ввод", x);
+                    goto Start;
+                }
+                    
+                
+            Second:
+            
             Console.WriteLine("Введите второе значение");
             string y = Console.ReadLine();
-            decimal b = Convert.ToDecimal(y);
+            decimal b;
+            
+                if (decimal.TryParse(y, out b))
+                {
+                goto Operator;
+                }
+                {
+                Console.WriteLine("Неверный параметр '{0}'. Повторите ввод", y);
+                goto Second;
+                }
+                
             Operator:
+            
             Console.WriteLine("Введите действие (+, - , *, /)");
             string z = Console.ReadLine();
             
@@ -38,9 +63,10 @@ namespace Calculator
                 default:
                     Console.WriteLine("Неверный символ. Укажите действие заново");
                     goto Operator;
-                    break;
             }
+            
             Question:
+            
             Console.WriteLine("Провести другой расчёт? y/n");
             string t = Console.ReadLine();
 
